@@ -1,0 +1,21 @@
+{
+    "name": "keepeye/cache",
+    "description": "好用的PHP缓存类库",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "keepeye",
+            "email": "carlton.cheng@foxmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php" : ">=5.3"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "Keepeye\\Cache\\" : "src\\",
+            "Keepeye\\Cache\\Tests" : "tests\\"
+        }
+    }
+}
