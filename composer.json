@@ -14,8 +14,8 @@
     },
     "autoload" : {
         "psr-4" : {
-            "Keepeye\\Cache\\" : "src\\",
-            "Keepeye\\Cache\\Tests" : "tests\\"
+            "Keepeye\\Cache\\" : "src/",
+            "Keepeye\\Cache\\Tests\\" : "tests/"
         }
     }
 }
