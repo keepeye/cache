@@ -49,3 +49,8 @@ Advanced usage
 Tests
 =========
 You should have phpunit installed.Then enter the directory, execute `phpunit` .
+
+License
+===========
+
+This library is open-sourced software licensed under the **MIT** license
