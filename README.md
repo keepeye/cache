@@ -36,13 +36,15 @@ Advanced usage
 ===============
 
 1. FileDriver
+
     This driver is based on the filesystem.It has options below:
 
         - **dir** where the cache files stored in.
         - **depth** cache dir depth,default 2
 
 2. Other drivers
-    Just like redis、mysql、sqlite etc will be supported in future.
+
+    Some other drivers will be supported in future,such as redis、mysql、sqlite etc.
 
 Tests
 =========
