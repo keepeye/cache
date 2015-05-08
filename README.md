@@ -48,9 +48,15 @@ Advanced usage
 
 Tests
 =========
-You should have phpunit installed.Then enter the directory, execute `phpunit` .
+You should have phpunit installed.
+Then enter the directory, execute：
+
+    composer install
+    phpunit
 
 License
 ===========
 
-This library is open-sourced software licensed under the **MIT** license
+This library is open-sourced software licensed under the [MIT license][1]
+
+[1]:http://opensource.org/licenses/MIT
