@@ -13,7 +13,7 @@ namespace Keepeye\Cache;
  * @package Keepeye\Cache
  */
 class Cache {
-    private $driver="FileDriver";
+    private $driver="File";
 
     /**
      * 设置驱动名称
